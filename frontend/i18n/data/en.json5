@@ -190,7 +190,7 @@ _{link}_ part of "The translation for English locale is incomplete. Help us get 
   "searchGuide.title": "{'Openverse'} Syntax Guide",
   "searchGuide.intro": "When you search, you can enter special symbols or words to your search term to make your search results more precise.",
   "searchGuide.exact.title": "Search for an exact match",
-  "searchGuide.exact.ariaLabel": "quote unquote Claude Monet",
+  "searchGuide.exact.ariaLabel": "Claude Monet",
   "searchGuide.exact.claudeMonet": '"Claude Monet"',
   "searchGuide.exact.content": "To search for an exact word or phrase, put it inside quotes. For example, {link}.",
   "searchGuide.negate.title": "Excluding terms",
